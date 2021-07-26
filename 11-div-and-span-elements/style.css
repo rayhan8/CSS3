@@ -1,0 +1,17 @@
+/* Div and Span Elements */
+
+div {
+  color: green;
+}
+
+.first {
+  background: gray;
+}
+
+span {
+  text-transform: uppercase;
+}
+
+.second {
+  background: gray;
+}

@@ -1,0 +1,28 @@
+/* Last Rule always apply */
+
+h2 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+/* Specificity */
+
+p {
+  color: red;
+}
+
+.paragraph {
+  color: blue;
+}
+
+/* learn more - Specificity measurement CSS */
+
+/* Universal Selector - Select all Elements */
+
+* {
+  color: blueviolet;
+  border: 2px solid red;
+}

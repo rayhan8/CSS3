@@ -1,0 +1,11 @@
+/* Id Selectors */
+
+#header {
+  color: cornflowerblue;
+  background: black;
+}
+
+#footer {
+  color: blue;
+  background: gray;
+}

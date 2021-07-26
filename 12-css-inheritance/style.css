@@ -1,0 +1,14 @@
+/* If we're gonna add styles to a parent element, the children are gonna inherit them */
+body {
+  color: red;
+}
+
+/* Now both paragraphs are actually inheriting from the div */
+div {
+  color: green;
+}
+
+/* Child will gonna be inherited from the parent element as you're applying styles to a parent element */
+h2 {
+  color: indigo;
+}
