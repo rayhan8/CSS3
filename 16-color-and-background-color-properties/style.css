@@ -1,0 +1,15 @@
+/* color Properties - apply in text */
+#first {
+  color: cadetblue;
+}
+
+/* background-color Properties */
+#second {
+  background-color: chocolate;
+}
+
+/* background Properties - use in images */
+#third {
+  /* now I use Shorthand in normal text */
+  background: cornflowerblue;
+}

@@ -1,0 +1,29 @@
+/* RGBA */
+/* R (Red) */
+/* G (Green) */
+/* B (Blue) */
+/* A (0-1 Opacity/Transparency) */
+
+#first {
+  color: rgb(66, 87, 23);
+  background-color: rgba(55, 125, 155, 0.5);
+}
+
+#second {
+  color: rgb(45, 10, 34);
+  background-color: rgba(35, 200, 112, 0.25);
+}
+
+#third {
+  color: rgb(255, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+}
+
+#fourth {
+  color: rgb(0, 0, 255);
+  background-color: rgba(0, 0, 0, 1);
+}
+
+body {
+  background-color: rgba(10, 150, 200, 0.56);
+}
