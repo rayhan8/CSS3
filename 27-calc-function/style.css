@@ -1,0 +1,21 @@
+/* Calc Function, calc() */
+/* Perform math operations + - * / */
+/* mix and match value */
+
+* {
+  margin: 0;
+}
+
+.navbar {
+  background: blue;
+  height: 100px;
+  color: white;
+  font-size: 3rem;
+}
+
+.banner {
+  background: red;
+  /* min-height: 100vh; need to scroll */
+  min-height: calc(100vh - 100px);
+  /* calc(100vh-100px) is wrong */
+}

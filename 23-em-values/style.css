@@ -1,0 +1,24 @@
+/* em - RELATIVE depends on parent */
+/* 1em = 16px default browser style */
+/* 1em = base value */
+
+.first {
+  font-size: 2em; /* 2em = 2*16px = 32px */
+}
+
+.second {
+  font-size: 32px; /* 32px = 2em */
+}
+
+div {
+  font-size: 20px;
+  /* font-size: 10px; */
+}
+
+.relative {
+  font-size: 2em; /* em value depends on div - parent container */
+}
+
+.absolute {
+  font-size: 32px; /* px don't depends on parent container */
+}

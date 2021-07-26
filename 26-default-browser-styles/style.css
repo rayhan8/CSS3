@@ -1,0 +1,13 @@
+/* Default Browser Styles and Google Developer tools */
+
+/* s1: go to inspect */
+/* s2: go to Elements */
+/* s3: select h1 tag */
+/* s4: check Styles & we find some default browser style */
+
+/* default browser style (user agent stylesheet) */
+
+h2 {
+  color: red;
+  font-size: 60px;
+}

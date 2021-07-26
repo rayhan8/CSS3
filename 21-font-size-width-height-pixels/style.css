@@ -1,0 +1,12 @@
+/* font-size,width,height,pixels */
+/* font-size : responsible for size of our fonts */
+/* width & height : control the width and height of our elements */
+/* pixels : pixel is an absolute unit of measurement. one pixel represents one dot on the screen */
+
+/* font size is going to control the height of the text */
+h1 {
+  font-size: 60px; /* 60 pixels on the different screen size */
+  width: 200px;
+  height: 300px;
+  background-color: blue;
+}

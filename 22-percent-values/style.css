@@ -1,0 +1,15 @@
+/* Percent Values - Relative */
+
+.outer {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
+
+/* Percentages are depends on Parent Element */
+.inner {
+  width: 50%;
+  height: 50%;
+  background-color: red;
+}
+/* Child is relative to the Parent */
