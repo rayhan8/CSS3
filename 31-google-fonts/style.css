@@ -1,0 +1,20 @@
+/* Google Fonts */
+/* search "google fonts" in browser */
+/* visit : https://fonts.google.com/ */
+/* select any style */
+/* copy & paste fonts link in html file */
+/* or import url in css file */
+/* use this font-family */
+
+/* import google fonts url */
+@import url("https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap");
+
+/* use from link */
+h1 {
+  font-family: "Qahiri", sans-serif;
+}
+
+/* use from import url */
+p {
+  font-family: "Otomanopee One", sans-serif;
+}

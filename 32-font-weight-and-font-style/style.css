@@ -1,0 +1,14 @@
+/* Font-Weight Font-Style */
+
+body {
+  font-style: italic;
+}
+
+.h1 {
+  font-style: normal;
+}
+
+.paragraph {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

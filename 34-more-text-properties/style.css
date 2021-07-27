@@ -1,0 +1,39 @@
+/* line-height (depends on parent) */
+/* letter-spacing */
+/* word-spacing */
+/* text-transform */
+/* text-decoration */
+
+.one {
+  line-height: 2.5rem;
+}
+
+.two {
+  letter-spacing: 5px;
+  text-decoration: overline;
+  line-height: 2rem;
+}
+
+.three {
+  word-spacing: 30px;
+  text-decoration: underline;
+  line-height: 2rem;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+h2 {
+  text-transform: capitalize;
+  text-decoration: line-through;
+}
+
+h3 {
+  text-transform: lowercase; /* default */
+}
+
+a {
+  text-decoration: none;
+  font-size: 40px;
+}
